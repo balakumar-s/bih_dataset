@@ -1,4 +1,4 @@
-# allegro\_lvl\_1 dataset
+# yumi\_lvl\_3 dataset
 This dataset was used to benchmark in-hand manipulation level-3 on the YuMi robot.
 
 ## How to use the dataset
@@ -19,7 +19,7 @@ The dataset is in the spreadsheet (.ods) file named `DMG.ods`. The dataset conta
 | Final orientation   | qx,qy,qz,qw | DMG planned orientation of gripper w.r.t. object in unit quaterion      |
 ## Benchmark results
 This dataset has been used for benchmarking in-hand manipulation level 3. Refer to the below link for more info:
-[Results URL](https://www.google.com)
+[Results URL](https://robot-learning.cs.utah.edu/_media/project/bih_demo_lvl3.pdf)
 
 ## Citing
 If you use the dataset, cite the following publication,
