@@ -11,7 +11,7 @@ This dataset has been used for benchmarking in-hand manipulation. Refer to the b
 ## Citing
 If you use the dataset, cite the following (example below)
 
-* Calli, Berk, Aaron Walsman, Arjun Singh, Siddhartha Srinivasa, Pieter Abbeel, and Aaron M. Dollar. "Benchmarking in manipulation research: Using the Yale-CMU-Berkeley object and model set." IEEE Robotics & Automation Magazine 22, no. 3 (2015): 36-52.*
+* Calli B, Walsman A, Singh A, Srinivasa S, Abbeel P, Dollar AM. Benchmarking in manipulation research: Using the Yale-CMU-Berkeley object and model set. IEEE Robotics & Automation Magazine. 2015 Sep 10;22(3):36-52.*
 
 ```
 @article{calli2015benchmarking,

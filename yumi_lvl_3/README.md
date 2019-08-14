@@ -24,8 +24,7 @@ This dataset has been used for benchmarking in-hand manipulation level 3. Refer 
 ## Citing
 If you use the dataset, cite the following publication,
 
-
-*Cruciani, Silvia, Christian Smith, Danica Kragic, and Kaiyu Hang. "Dexterous manipulation graphs." In 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 2040-2047. IEEE, 2018.*
+*Cruciani S, Smith C, Kragic D, Hang K. Dexterous manipulation graphs. In2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2018 Oct 1 (pp. 2040-2047). IEEE.*
 
 
 ```
