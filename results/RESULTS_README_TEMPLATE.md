@@ -1,7 +1,7 @@
-# ROBOTNAME\_lvl\_NO dataset
-This is a template for helping in creating readme for a dataset.
-## How to use the dataset
-Provide info on what the dataset contains, e.g. robot joint state
+# ROBOTNAME\_lvl\_NO results
+This is a template for helping in creating readme for results.
+## How to use the results
+Provide info on what the results contain, e.g. robot joint state
 
 ## Benchmark results
 This dataset has been used for benchmarking in-hand manipulation. Refer to the below pdf for more info: 
